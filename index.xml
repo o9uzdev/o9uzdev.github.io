@@ -13,7 +13,7 @@
       <pubDate>Tue, 15 Dec 2020 21:10:53 +0300</pubDate>
       
       <guid>https://www.o9uz.dev/posts/macos-xcrun-error-invalid-active-developer-path-missing-xcrun/</guid>
-      <description>macOS: Xcrun: Error: Invalid Active Developer Path, Missing Xcrun I ran into this error when I tried any brew operation (like brew update and brew upgrade) on a Mac. I had just upgraded to macOS Big Sur 11.1 and suddenly brew broke!
+      <description>I ran into this error when I tried any brew operation (like brew update and brew upgrade) on a Mac. I had just upgraded to macOS Big Sur 11.1 and suddenly brew broke!
 $ brew update xcrun: error: invalid active developer path (/Library/Developer/CommandLineTools), missing xcrun at: /Library/Developer/CommandLineTools/usr/bin/xcrun The fix, luckily, is pretty straight forward. Install the Xcode toolkit! Even if you had it installed before, you might have to re-register it or update it to the latest version.</description>
     </item>
     
